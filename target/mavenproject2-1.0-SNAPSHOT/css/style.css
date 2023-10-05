@@ -1,0 +1,30 @@
+.custom_bg{
+    background:#4fc3f7!important;
+}
+
+.admin .card{
+    border:4px solid #4fc3f7;
+}
+
+.admin .card:hover{
+    
+    background: #e2e2e2;
+    cursor: pointer;
+    
+}
+
+.list-group-item.active{
+    background:#4fc3f7!important;
+    border-color: #4fc3f7!important
+}
+
+.discount-label{
+    font-size: 10px!important;
+    font-style: italic!important;
+}
+
+.product-card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+    transform: scale(2);
+}
