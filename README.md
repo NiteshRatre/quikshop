@@ -1,5 +1,5 @@
 _____________________________________________________________________________________
-# quikshop is an e-commerce website haveing following modules which you can see on screenshots
+# quikshop is an e-commerce website having following modules which you can see on screenshots
 1. Login page (which is common for ADMIN and USER)
 2. Registration page
 3. User Home page containting functionalities like:
